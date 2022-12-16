@@ -1,0 +1,40 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(199, 123, 123);
+    
+}
+
+li {
+    font-weight: normal;
+    font-style: italic;
+}
+
+a {
+    color: bisque;
+}
+
+h4 {
+    font-size: 20px;
+}
+
+p {
+    font-style: italic;
+}
+
+#About_Me {
+    font-style: inherit;
+}
+
+#Joy {
+    font-style: inherit;
+}
+
+#Resume {
+    font-weight: bold;
+}
+
+.bold {
+    font-weight: bold;
+}
